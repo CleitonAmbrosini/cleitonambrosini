@@ -1,14 +1,14 @@
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 # Hi there! 👋 
-> My name is Cleiton Ambrosini, I am software developer from Brazil :brazil:. I'm motivated for knowledge, because, I believe that with it we can evolve like professionals and human beings. 
+> My name is Cleiton Ambrosini, I am software developer from Brazil. I'm motivated for knowledge, because, I believe that with it we can evolve like professionals and human beings. 
 
 <h3 align="left">About me:</h3>
 
-- 🌱 I’m currently learning **ReactJS, Typescript and GraphQL**
+-> I’m currently learning **ReactJS, Typescript and CI/CD**
 
-- 📫 How to reach me **cleiton.ambro@gmail.com**
+-> How to reach me **cleiton.ambro@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/cleitonambrosini/](https://www.linkedin.com/in/cleitonambrosini/)
+-> Know about my experiences [https://www.linkedin.com/in/cleitonambrosini/](https://www.linkedin.com/in/cleitonambrosini/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,8 +33,3 @@
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 </p>
 
-<div align="left">
-  <a href="https://github.com/CleitonAmbrosini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleitonambrosini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleitonambrosini&layout=compact&langs_count=7&theme=dracula"/>
-</div>
