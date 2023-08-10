@@ -1,7 +1,4 @@
 ### Hello, welcome to my GitHub 👋
-
-### ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
-
 My name is Cleiton Ambrosini and I am a software developer from Brazil. I am highly driven by the pursuit of knowledge, as I strongly believe that it helps us grow both as professionals and as individuals.
 
 <h3 align="left">About me:</h3>
