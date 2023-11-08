@@ -8,7 +8,7 @@
 - <a href="README_pt.md"><img src="imgs/pt-br.png" height="13"> Português</a>
 
 <p>
-  Sinta-se livre para me mandar uma mensagem através do meu e-mail <a href="mailto:cleiton.ambro@gmail.com">cleiton.ambro@gmail.com</a> ou pelo meu perfil do LinkedIn <a href="https://www.linkedin.com/in/cleitonambrosini/">Cleiton Ambrosini</a>.
+  Sinta-se livre para me mandar uma mensagem através do meu e-mail <a href="mailto:cleiton.ambro@gmail.com">cleiton.ambro@gmail.com</a> ou pelo meu perfil do LinkedIn <a href="https://www.linkedin.com/in/cleitonambrosini/" target="_blank">Cleiton Ambrosini</a>.
 </p>
 
 <details>
