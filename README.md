@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/CleitonAmbrosini">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&color=FFFFFF&duration=1500&pause=400&center=true&repeat=false&multiline=true&random=false&width=630&height=120&lines=%F0%9F%91%8B+Hello+there!+;I'm+Cleiton+Ambrosini.;A+software+developer+from+Brazil." alt="Hello There! I'm Cleiton Ambrosini. A software developer from Brazil." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=2000&color=F7F7F7&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hello!;I'm+Cleiton+Ambrosini.;A+software+developer+from+Brazil.+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+passionate+about+new+technologies,;especially+web+and+mobile.;Feel+free+to+check+out+my+profile." alt="Typing SVG" />
   </a>
 </h1>
 
@@ -45,7 +45,7 @@
 <img align="right" src="https://img.shields.io/badge/Styled%20Components-27212d?logo=styledcomponents&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/SASS-be417f?logo=sass&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Javascript-f7df43?logo=javascript&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Typescript-%23007ACC?logo=typescript&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/React-1772b3?logo=react&logoColor=white" />
 
 - 👨‍💻 **Software Developer**\
