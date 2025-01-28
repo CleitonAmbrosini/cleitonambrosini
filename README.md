@@ -5,7 +5,7 @@
 </h1>
 
 <a href="./README.md"><img src="imgs/us.png" height="13" style="text-align: center;"> English</a></br>
-<a href="./README_pt.md"><img src="imgs/pt-br.png" height="13"> Português</a>
+<a href="./README-pt.md"><img src="imgs/pt-br.png" height="13"> Português</a>
 
 <p>
   Feel free to send me a message via my email <a href="mailto:cleiton.ambro@gmail.com">cleiton.ambro@gmail.com</a> or through my LinkedIn profile <a href="https://www.linkedin.com/in/cleitonambrosini/" target="_blank">Cleiton Ambrosini</a>.
