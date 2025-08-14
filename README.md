@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/CleitonAmbrosini">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=2000&color=F7F7F7&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hello!;I'm+Cleiton+Ambrosini.;A+software+developer+from+Brazil.+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+passionate+about+new+technologies,;especially+web+and+mobile.;Feel+free+to+check+out+my+profile." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=2000&color=F7F7F7&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hello!;I'm+Cleiton+Ambrosini.;A+software+engineer+from+Brazil.+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+passionate+about+new+technologies,;especially+web+and+mobile.;Feel+free+to+check+out+my+profile." alt="Typing SVG" />
   </a>
 </h1>
 
@@ -14,7 +14,7 @@
 <details>
   <summary>🙋 About me</summary>
 
-- ✨ Currently, I work as a Front-end developer.
+- ✨ Currently, I work as Software Engineer.
 
 - 🎓 I'm studying NextJS, Typescript and Software Architecture.
 
